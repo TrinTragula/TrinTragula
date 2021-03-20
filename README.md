@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Ciao, Internet. 🐢
+### Ciao, Internet.
 I'm just an italian dev with a degree in physics.
+🐢
 
 Download [my app](https://play.google.com/store/apps/details?id=dev.scarinci.chatanalyzer).
