@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🐢 An italian dev with a degree in physics.
+## 🐢 
+An italian dev with a degree in physics.
 
