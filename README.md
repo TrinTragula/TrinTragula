@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ### Ciao, Internet.
-I'm just an italian dev with a degree in physics.
+I'm just an italian dev with a degree in physics. 
 🐢
 
-Go to my [website](https://scarinci.dev).
-
-Download [my app](https://play.google.com/store/apps/details?id=dev.scarinci.chatanalyzer).
-
-Try my [Minecraft seed finding online tool](https://www.mcseeder.com)!
+- Visit my personal [website](https://scarinci.dev)
+- Download [my app](https://play.google.com/store/apps/details?id=dev.scarinci.chatanalyzer) to analyze your WhatsApp chats
+- Try my [Minecraft seed finding online tool](https://www.mcseeder.com)
+- Play against my [chess engine](https://github.com/TrinTragula/rusty-pigeon) (even [online](https://rusty-pigeon.netlify.app/))
